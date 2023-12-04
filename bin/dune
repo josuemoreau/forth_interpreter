@@ -1,0 +1,4 @@
+(executable
+ (public_name forth_interpreter)
+ (name main)
+ (libraries forth_interpreter))
